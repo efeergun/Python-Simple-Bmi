@@ -15,3 +15,7 @@ elif (bmi < 30):
     print('\n Your BMI result is :' + str(bmi) + '. You are: Overweight ')
 else:
     print('\n Your BMI result is :' + str(bmi) + '. You are: Obese ')
+
+
+
+input('\n Thanks for using! press Enter to exit.')
