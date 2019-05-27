@@ -8,7 +8,7 @@ m = (cm / 100)
 bmi = (kg/(m*m))
 
 if (bmi < 19):
-    print('\n Your BMI result is :' + str(bmi) + '. You are: Thin ')
+    print('\n Your BMI result is :' + str(bmi) + '. You are: Thin    ')
 elif (bmi < 25):
     print('\n Your BMI result is :' + str(bmi) + '. You are: Healthy ')
 elif (bmi < 30):
